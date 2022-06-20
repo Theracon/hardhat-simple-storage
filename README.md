@@ -1,12 +1,6 @@
 <div id="top"></div>
-[![Contributors]][contributors-url]
-[![Forks]][forks-url]
-[![Stargazers]][stars-url]
-[![Issues]][issues-url]
-[![MIT License]][license-url]
-[![LinkedIn]][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT INTRO -->
 <br />
 <div align="center">
   <h3 align="center">Hardhat-Simple-Storage</h3>
@@ -205,14 +199,3 @@ Here are some of the tools/plugins that made this project possible:
 - [Solidity Coverage](https://www.npmjs.com/package/solidity-coverage)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-url]: https://github.com/Theracon/hardhat-simple-storage/graphs/contributors
-[forks-url]: https://github.com/Theracon/hardhat-simple-storage/network/members
-[stars-url]: https://github.com/Theracon/hardhat-simple-storage/stargazers
-[issues-url]: https://github.com/Theracon/hardhat-simple-storage/issues
-[license-url]: https://github.com/Theracon/hardhat-simple-storage/blob/main/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: http://linkedin.com/in/ashraf-yusuf-928711211
