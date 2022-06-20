@@ -3,7 +3,7 @@
 <!-- PROJECT INTRO -->
 <br />
 <div align="center">
-  <h3 align="center">Hardhat-Simple-Storage</h3>
+  <h3 align="center">Hardhat Simple Storage</h3>
 
   <p align="center">
     A DApp that takes and stores a number to the blockchain.
