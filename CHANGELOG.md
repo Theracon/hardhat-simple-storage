@@ -5,3 +5,6 @@
 ### Added or Changed
 
 - Initial commit
+- Add Changelog
+- Remove image links in README
+- Modify project name in README

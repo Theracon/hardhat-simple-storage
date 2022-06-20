@@ -6,7 +6,7 @@
   <h3 align="center">Hardhat Simple Storage</h3>
 
   <p align="center">
-    A DApp that takes and stores a number to the blockchain.
+    A decentralized app that takes and stores a number on the ethereum blockchain.
     <br />
     <br />
     <a href="https://github.com/Theracon/hardhat-simple-storage">View Demo</a>
