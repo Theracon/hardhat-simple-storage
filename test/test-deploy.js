@@ -1,6 +1,6 @@
 // @ts-nocheck
 const { ethers } = require("hardhat")
-const { assert, expect } = require("chai")
+const { assert } = require("chai")
 
 describe("SimpleStorage", function () {
   let SimpleStorageFactory, simpleStorage
